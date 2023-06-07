@@ -14,7 +14,6 @@ sudo /etc/init.d/iptvunion stop
 sleep 3
  rm -r /home/iptvunion/*
 sleep 3
-wget --no-check-certificate https://sourceforge.net/projects/iptvunion/files/iptvunion.tar.gz -P /home/iptvunion 
 (tar -zxvf /home/iptvunion/iptvunion.tar.gz -C /home/iptvunion/ > /dev/null 2>&1);
 sleep 1
 (rm -r  /home/iptvunion/iptvunion.tar.gz); 
