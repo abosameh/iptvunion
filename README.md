@@ -13,12 +13,12 @@ Installation options:
 
     sudo apt install mysql-server
 
-    wget https://raw.githubusercontent.com/IPTVUNION/iptvunion/master/iptvunion.sh && chmod a+x iptvunion.sh && ./iptvunion.sh
+    wget https://raw.githubusercontent.com/abosameh/iptvunion/master/iptvunion.sh && chmod a+x iptvunion.sh && ./iptvunion.sh
 
 
 Update: 
 
-    wget https://raw.githubusercontent.com/IPTVUNION/iptvunion/master/iptvunionWeb.sh && chmod a+x iptvunionWeb.sh && ./iptvunionWeb.sh
+    wget https://raw.githubusercontent.com/abosameh/iptvunion/master/iptvunionWeb.sh && chmod a+x iptvunionWeb.sh && ./iptvunionWeb.sh
 
 
 ###########################################################################################
